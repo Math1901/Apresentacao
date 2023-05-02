@@ -1,0 +1,27 @@
+:root
+{
+    --cor-principal:rgb(86, 89, 139);
+}
+
+h1
+{
+    color: blue;
+    font-size: 45px;
+}
+
+h2
+{
+    color:chartreuse;
+}
+
+#social
+{
+    color: orange
+}
+img{
+    width: 150px;
+    border-radius: 90%;
+}
+img{
+    text-align: center;
+}
